@@ -1,11 +1,3 @@
-// import axios from "axios";
-
-// const HttpUrl = axios.create({
-//    baseURL: process.env.REACT_APP_API_DOMAIN,
-// });
-
-// export default HttpUrl;
-
 import axios from "axios";
 import fetchAPI from "../API/API";
 

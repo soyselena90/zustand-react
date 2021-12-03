@@ -135,3 +135,9 @@ em {
 button {
    cursor: pointer;
 }
+
+.notSuccesspage h1 {
+   font-size: 3em;
+   text-align: center;
+   line-height: 10;
+}
